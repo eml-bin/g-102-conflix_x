@@ -1,2 +1,2 @@
 # g-102-conflix_x
-Repositorio de pruebas para simulación de conflictos en git
+Repositorio para el manejo de conflictos x-x
