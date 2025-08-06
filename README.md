@@ -1,2 +1,3 @@
 # g-102-conflix_x
-Repositorio para el manejo de conflictos x-x
+
+Este repositorio esta pensado para simular conflictos ⚔️
